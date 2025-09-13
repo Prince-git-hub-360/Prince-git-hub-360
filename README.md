@@ -42,8 +42,7 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/prince-kumar-576544374" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/Prince-git-hub-360" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:kumariafprince@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
-
