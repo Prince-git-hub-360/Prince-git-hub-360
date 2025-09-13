@@ -34,8 +34,8 @@
 ---
 
 ## 📂 Featured Projects
-- [**Portfolio Website**](#) – Built with HTML, CSS, and JavaScript  
-- [**AI/ML Mini Project**](#) – Machine learning project using Random Forest  
+- [**Depression Detection System**](https://github.com/Prince-git-hub-360/depression-detection) – AI project analyzing voice, text, and facial expressions using Python, Streamlit, and DeepFace  
+- [**Portfolio Website**](https://prince-git-hub-360.github.io/Portfolio/) – Built with HTML, CSS, and JavaScript  
 - [**Data Analysis Project**](#) – Data cleaning and visualization with Python  
 
 ---
