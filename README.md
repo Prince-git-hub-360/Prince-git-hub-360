@@ -58,7 +58,17 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/Prince-git-hub-360/Prince-git-hub-360/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](./output/github-contribution-grid-snake.svg)
+
+---
+
+## 📝 Latest Repositories
+<!-- LATEST-REPOS:START -->
+<!-- LATEST-REPOS:END -->
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
