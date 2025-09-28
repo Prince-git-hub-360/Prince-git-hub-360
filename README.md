@@ -3,21 +3,25 @@
 💻 **AI/ML & Data Science Enthusiast | Web Developer | Tech Learner**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prince-git-hub-360&label=Profile%20Views&color=blue&style=flat)  
-![GitHub followers](https://img.shields.io/github/followers/Prince-git-hub-360?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/Prince-git-hub-360?affiliations=OWNER%2CCOLLABORATOR&style=social)  
+[![Follow on GitHub](https://img.shields.io/badge/Follow%20Me%20on-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Prince-git-hub-360)  
+[![Star My Repos](https://img.shields.io/badge/⭐%20Star-My%20Repositories-yellow?style=for-the-badge&logo=github)](https://github.com/Prince-git-hub-360?tab=repositories)  
 
 ---
 
 ## 🚀 About Me
-- 🎓 Diploma Student in Computer Science (Passing 2026)  
-- 🌱 Currently learning **Machine Learning, Data Science & Deep Learning**  
-- 🔭 Building projects in **Python, AI/ML, and Web Development**  
-- 🏆 Won **2nd level Chess Tournament** in college  
-- ⚡ Fun fact: I enjoy solving problems and creating innovative solutions!  
+🎓 *Diploma Student in Computer Science (Passing 2026)*  
+🌱 Learning **Machine Learning, Data Science & Deep Learning**  
+🔭 Building projects in **Python, AI/ML, and Web Development**  
+🏆 Winner of **2nd Level Chess Tournament** in college  
+⚡ Passionate about solving problems and creating **real-world AI solutions**  
 
 ---
 
-## 🛠️ Skills & Tools
+## 💡 Tech Stack
+- **Languages:** Python, JavaScript, SQL, HTML, CSS  
+- **Libraries & Frameworks:** TensorFlow, Scikit-learn, Pandas, NumPy, Streamlit  
+- **Tools & Platforms:** Git, GitHub, MySQL, VS Code  
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,mysql,sklearn,tensorflow" />
 </p>
@@ -29,18 +33,36 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Prince-git-hub-360&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-git-hub-360&theme=tokyonight" alt="GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-git-hub-360&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+</p>  
+
+---
+
+## 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=Prince-git-hub-360&theme=tokyonight&no-frame=true&margin-w=15)
 
 ---
 
 ## 📂 Featured Projects
-- [**Depression Detection System**](https://github.com/Prince-git-hub-360/depression-detection) – AI project analyzing voice, text, and facial expressions using Python, Streamlit, and DeepFace  
-- [**Portfolio Website**](https://prince-git-hub-360.github.io/Portfolio/) – Built with HTML, CSS, and JavaScript  
-- [**Data Analysis Project**](#) – Data cleaning and visualization with Python  
+- [**AI-Powered Depression Detection System**](https://github.com/Prince-git-hub-360/depression-detection)  
+  🧠 An advanced AI/ML system analyzing **voice, text, and facial expressions** for mental health insights.  
+  ⚙️ Tech: Python, Streamlit, DeepFace, Sklearn  
+
+- [**Portfolio Website**](https://prince-git-hub-360.github.io/Portfolio/)  
+  🌐 Personal branding website to showcase **skills, projects, and achievements**.  
+  ⚙️ Tech: HTML, CSS, JavaScript  
+
+- [**Data Analysis & Visualization**](#)  
+  📊 Cleaned and visualized **large datasets** for actionable insights.  
+  ⚙️ Tech: Pandas, Matplotlib, Seaborn  
 
 ---
 
-## 🌐 Connect with Me
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/Prince-git-hub-360/Prince-git-hub-360/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/prince-kumar-576544374" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/Prince-git-hub-360" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>
