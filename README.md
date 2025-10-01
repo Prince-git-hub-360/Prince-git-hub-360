@@ -56,7 +56,6 @@
 
 ---
 
-## 🐍 My Contribution Snake
 
 ## 🐍 My Contribution Snake
 
