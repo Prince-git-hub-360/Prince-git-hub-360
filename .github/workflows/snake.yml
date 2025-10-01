@@ -5,11 +5,11 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 */6 * * *"  # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write  # allows pushing to output branch
+  contents: write
 
 jobs:
   build:
@@ -22,7 +22,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Prince-git-hub-360
-          outputs: dist/snake.svg
+          outputs: 
+            - dist/snake.svg
+            - dist/snake.gif
+          theme: github-dark  # makes background transparent for dark mode
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
