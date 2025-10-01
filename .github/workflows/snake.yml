@@ -5,11 +5,11 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"  # every 6 hours
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # needed to push to output branch
 
 jobs:
   build:
@@ -25,9 +25,9 @@ jobs:
           outputs: 
             - dist/snake.svg
             - dist/snake.gif
-          theme: github-dark  # makes background transparent for dark mode
+          theme: github-dark  # transparent background
 
-      - name: Push to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
