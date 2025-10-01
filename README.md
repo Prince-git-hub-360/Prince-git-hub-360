@@ -22,9 +22,8 @@
 - **Libraries & Frameworks:** TensorFlow, Scikit-learn, Pandas, NumPy, Streamlit  
 - **Tools & Platforms:** Git, GitHub, MySQL, VS Code  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,mysql,sklearn,tensorflow" />
-</p>
+![Snake animation](https://github.com/Prince-git-hub-360/Prince-git-hub-360/blob/output/snake.gif)
+
 
 ---
 
