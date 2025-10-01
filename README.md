@@ -58,7 +58,9 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/Prince-git-hub-360/Prince-git-hub-360/blob/output/snake.svg)
+<p align="center">
+  <img src="https://github.com/Prince-git-hub-360/Prince-git-hub-360/blob/output/snake.gif" width="100%">
+</p>
 
 ---
 
