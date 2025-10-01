@@ -58,7 +58,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](./output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Prince-git-hub-360/Prince-git-hub-360/blob/output/snake.svg)
 
 ---
 
