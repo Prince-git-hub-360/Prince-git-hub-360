@@ -8,8 +8,9 @@
 
 ---
 
-## 🚀 About Me
-🎓 *Diploma Student in Computer Science (Passing 2026)*  
+## 🚀 About Me 🎓
+*Diploma Student in Computer Science (Passing 2026)*  
+
 🌱 Learning **Machine Learning, Data Science & Deep Learning**  
 🔭 Building projects in **Python, AI/ML, and Web Development**  
 🏆 Winner of **2nd Level Chess Tournament** in college  
@@ -18,21 +19,33 @@
 ---
 
 ## 💡 Tech Stack
-- **Languages:** Python, JavaScript, SQL, HTML, CSS  
-- **Libraries & Frameworks:** TensorFlow, Scikit-learn, Pandas, NumPy, Streamlit  
-- **Tools & Platforms:** Git, GitHub, MySQL, VS Code  
+
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Libraries & Frameworks:** TensorFlow, Scikit-learn, Flask, Pandas, NumPy, Streamlit, Matplotlib, OpenCV, Hugging Face  
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code, MySQL  
+
+### 🛠️ Tools & Languages I Use
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Languages" height="40"/>
+  <!-- Libraries & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,flask,pandas,numpy,streamlit,matplotlib,opencv,huggingface" alt="Libraries" height="40"/>
+  <!-- Tools & IDEs -->
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,mysql" alt="Tools" height="40"/>
+</p>
+
+---
 
 ![Snake animation](https://github.com/Prince-git-hub-360/Prince-git-hub-360/blob/output/snake.gif)
-
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-git-hub-360&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-git-hub-360&theme=tokyonight" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-git-hub-360&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince-git-hub-360&show_icons=true&theme=tokyonight" alt="GitHub stats" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-git-hub-360&theme=tokyonight" alt="GitHub streak" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-git-hub-360&layout=compact&theme=tokyonight" alt="Top languages" />  
+</p>
 
 ---
 
@@ -42,6 +55,7 @@
 ---
 
 ## 📂 Featured Projects
+
 - [**AI-Powered Depression Detection System**](https://github.com/Prince-git-hub-360/depression-detection)  
   🧠 An advanced AI/ML system analyzing **voice, text, and facial expressions** for mental health insights.  
   ⚙️ Tech: Python, Streamlit, DeepFace, Sklearn  
@@ -56,32 +70,28 @@
 
 ---
 
-
 ## 🐍 My Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prince-git-hub-360/Prince-git-hub-360/output/github-snake-dark.svg" />
-  
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prince-git-hub-360/Prince-git-hub-360/output/github-snake.svg" />
-  
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prince-git-hub-360/Prince-git-hub-360/output/github-snake.svg" />
 </picture>
 
 ---
 
 ## 📝 Latest Repositories
-<!-- LATEST-REPOS:START -->
+<!-- LATEST-REPOS:START -->  
 <!-- LATEST-REPOS:END -->
 
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->  
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 📫 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/prince-kumar-576544374" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/Prince-git-hub-360" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="mailto:kumariafprince@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/prince-kumar-576544374" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/Prince-git-hub-360" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:kumariafprince@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
