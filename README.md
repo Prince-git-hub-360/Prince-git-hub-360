@@ -36,8 +36,6 @@
 
 ---
 
-![Snake animation](https://github.com/Prince-git-hub-360/Prince-git-hub-360/blob/output/snake.gif)
-
 ---
 
 ## 📊 GitHub Stats
@@ -56,17 +54,17 @@
 
 ## 📂 Featured Projects
 
-- [**AI-Powered Depression Detection System**](https://github.com/Prince-git-hub-360/depression-detection)  
-  🧠 An advanced AI/ML system analyzing **voice, text, and facial expressions** for mental health insights.  
-  ⚙️ Tech: Python, Streamlit, DeepFace, Sklearn  
+- [**AI Student Engagement System**](https://github.com/Prince-git-hub-360/AI-Student-Engagement) 🎓  
+  A professional, high-performance platform for automated student analytics, behavioral engagement tracking, and face-recognition based attendance management.  
+  ⚙️ **Tech:** Python, FastAPI, PyTorch, React, TailwindCSS
 
-- [**Portfolio Website**](https://prince-git-hub-360.github.io/Portfolio/)  
-  🌐 Personal branding website to showcase **skills, projects, and achievements**.  
-  ⚙️ Tech: HTML, CSS, JavaScript  
+- [**AI-Powered Depression Detection System**](https://github.com/Prince-git-hub-360/depression-detection) 🧠  
+  An advanced AI/ML system analyzing voice, text, and facial expressions for mental health insights.  
+  ⚙️ **Tech:** Python, Streamlit, DeepFace, Sklearn
 
-- [**Data Analysis & Visualization**](#)  
-  📊 Cleaned and visualized **large datasets** for actionable insights.  
-  ⚙️ Tech: Pandas, Matplotlib, Seaborn  
+- [**AI-Healthcare-Assistant-for-Rural-Communities**](https://github.com/Prince-git-hub-360/AI-Healthcare-Assistant-for-Rural-Communities) 🏥  
+  An AI-powered healthcare platform bridging literacy and language barriers using OCR for prescription reading, Gemini AI for medical text simplification, and multilingual voice guidance.  
+  ⚙️ **Tech:** Python, Gemini AI, OCR, Streamlit  
 
 ---
 
